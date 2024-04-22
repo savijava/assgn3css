@@ -1,0 +1,176 @@
+.wb{
+    background-color: grey;
+}
+.innerbox{
+    height: 200px;
+    width: 550px;
+    border: 8px solid red;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-shadow: 5px 5px 5px purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.green1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.main1{
+    display: flex;
+    justify-content: center;
+    /* border: 10px solid; */
+    align-items: center;
+
+    
+}
+.address{
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+}
+.service{
+    height: 250px;
+    width: 250px;
+    border:7px solid red;
+    border-radius: 12px;
+    font-size: 22px;
+    font-weight: bolder;
+    color: rgb(121, 6, 60);
+    text-shadow: 1px 1px 1px rgb(122, 26, 122);
+    background-color: white;
+}
+.ws1{
+    background-color: green;
+    width: 730px;
+    height: 730px;
+}
+.bbg{
+    display: flex;
+    justify-content: space-between;
+}
+.green{
+    display: flex;
+    flex-direction: column;
+    border: 12px solid green;
+    height: 710px;
+    justify-content: space-between;
+
+}
+.othe{
+    height: 400px;
+}
+.fixs{
+    height: 20px;
+    width: 50%;
+    border:5px solid red;
+    display: flex;
+    margin-left: 300px;
+    position: fixed;
+    margin-top: 550px;
+    background-color: yellowgreen;
+    justify-content: space-around;
+    height: 100px;
+    border-radius: 15px;
+}
+.off12{
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: large;
+    padding: 10px;
+    
+}
+.dis12{
+    padding: 10px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.lastdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 12px solid;
+}
+.Fruits,.Vegetables{
+    height: 200px;
+    width: 350px;
+    border: 0.5px solid rgb(224, 224, 152) ;
+    border: 3px solid;
+}
+.form0{
+    text-align: center;
+    margin-top: -40px;
+}
+.rating>p{
+    margin-top: 5px;
+}
+.rating{
+    height: 250px;
+    width: 250px;
+    border:7px solid red;
+    border-radius: 12px;
+    font-size: 28px;
+    font-weight: bolder;
+    color: rgb(121, 6, 60);
+    text-shadow: 1px 1px 1px rgb(122, 26, 122);
+    background-color: white;
+
+}
+.green2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+address>p{
+    margin-left: -60px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(121, 6, 60);
+    text-shadow: 1px 1px 1px rgb(122, 26, 122);
+}
+.un{
+    margin-left: 6px;
+
+}
+.textc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+.image1{
+    border: 7px solid red;
+    height: 250px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+
+}
+/* .image1>img{
+    height: 100px;
+    width: 100x;
+} */
+.chmg>img{
+    height: 60%;
+    width: 100%;
+}
+.wt,.aio,.gs{
+    color: rgb(121, 6, 60);
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px rgb(122, 26, 122);
+}
